@@ -1,0 +1,12 @@
+C:\Projects\assignment\Organization.DAL\bin\Debug\net6.0\Organization.DAL.deps.json
+C:\Projects\assignment\Organization.DAL\bin\Debug\net6.0\Organization.DAL.dll
+C:\Projects\assignment\Organization.DAL\bin\Debug\net6.0\Organization.DAL.pdb
+C:\Projects\assignment\Organization.DAL\obj\Debug\net6.0\Organization.DAL.csproj.AssemblyReference.cache
+C:\Projects\assignment\Organization.DAL\obj\Debug\net6.0\Organization.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\assignment\Organization.DAL\obj\Debug\net6.0\Organization.DAL.AssemblyInfoInputs.cache
+C:\Projects\assignment\Organization.DAL\obj\Debug\net6.0\Organization.DAL.AssemblyInfo.cs
+C:\Projects\assignment\Organization.DAL\obj\Debug\net6.0\Organization.DAL.csproj.CoreCompileInputs.cache
+C:\Projects\assignment\Organization.DAL\obj\Debug\net6.0\Organization.DAL.dll
+C:\Projects\assignment\Organization.DAL\obj\Debug\net6.0\refint\Organization.DAL.dll
+C:\Projects\assignment\Organization.DAL\obj\Debug\net6.0\Organization.DAL.pdb
+C:\Projects\assignment\Organization.DAL\obj\Debug\net6.0\ref\Organization.DAL.dll
