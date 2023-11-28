@@ -1,0 +1,27 @@
+
+USE Organization;
+
+
+CREATE TABLE Employees(
+EmployeeID INT PRIMARY KEY,
+FirstName VARCHAR(30) NOT NULL,
+LastName VARCHAR(50) NOT NULL,
+Address1 VARCHAR(100) NULL,
+EmployeeType VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE Contractors(
+ContractorID INT PRIMARY KEY FOREIGN KEY REFERENCES Employees(EmployeeID) NOT NULL,
+PayPerHour DECIMAL(5,2) NOT NULL
+);
+
+CREATE TABLE Supervisors(
+SupervisorID INT PRIMARY KEY FOREIGN KEY REFERENCES Employees(EmployeeID) NOT NULL ,
+AnnualSalary DECIMAL(10,2) NOT NULL
+);
+
+CREATE TABLE Managers(
+ManagerID INT PRIMARY KEY FOREIGN KEY REFERENCES Employees(EmployeeID) NOT NULL,
+AnnualSalary DECIMAL(10,2) NOT NULL,
+MaxExpenseAmount DECIMAL(10,2) NULL
+);
